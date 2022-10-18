@@ -1,0 +1,17 @@
+.main-container {
+   
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.my-form{
+   
+    align-self: flex-start;
+    width: 50%;
+}
+.heading1{
+    text-align: center;
+}
